@@ -1,0 +1,18 @@
+The player has cards: 10,10, before.
+The dealer has cards: 2,6, before.
+The player has cards: 10,10, after.
+The dealer has cards: 2,6,7,9, after.
+The player now has 20 point,The dealer now has 24 point. This time the player won.
+1
+The player has cards: 10,5, before.
+The dealer has cards: 9,10, before.
+The player has cards: 10,5,3, after.
+The dealer has cards: 9,10, after.
+The player now has 18 point,The dealer now has 19 point. This time the dealer won.
+-1
+The player has cards: 5,9, before.
+The dealer has cards: 4,10, before.
+The player has cards: 5,9,4, after.
+The dealer has cards: 4,10,10, after.
+The player now has 18 point,The dealer now has 24 point. This time the player won.
+1

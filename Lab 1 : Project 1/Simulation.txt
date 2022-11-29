@@ -1,0 +1,3 @@
+The player won 421 times, which is 42 percent of the game,
+The Dealer won 491 times, which is 49 percent of the game,
+Draw happened 88 times, which is 8 percent of the game.
