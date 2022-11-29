@@ -1,0 +1,10 @@
+/**
+ * Di Luo
+ * CS 231
+ * Lab 7
+ * Hashmap.java
+ */
+
+public class Hashmap<K,V> implements MapSet<K,V>{
+    
+}

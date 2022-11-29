@@ -1,0 +1,5 @@
+totalWordCount : 24
+best:1
+foolishness:1
+worst:1
+wisdom:1
